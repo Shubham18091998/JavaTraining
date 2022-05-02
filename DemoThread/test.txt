@@ -1,0 +1,7 @@
+Multi tasking
+Process based
+Process application/program under execution
+Windows OS is multitasking
+Thread based multitasking
+Whithin a process more than one thread runs
+Word autosave, spell check, print
